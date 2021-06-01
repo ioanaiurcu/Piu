@@ -1,0 +1,9 @@
+D:\Ioana\Proiect_PIU\obj\Debug\Proiect_PIU.csproj.CoreCompileInputs.cache
+D:\Ioana\Proiect_PIU\bin\Debug\Proiect_PIU.exe.config
+D:\Ioana\Proiect_PIU\bin\Debug\Proiect_PIU.exe
+D:\Ioana\Proiect_PIU\bin\Debug\Proiect_PIU.pdb
+D:\Ioana\Proiect_PIU\obj\Debug\Proiect_PIU.exe
+D:\Ioana\Proiect_PIU\obj\Debug\Proiect_PIU.pdb
+D:\Ioana\Proiect_PIU\obj\Debug\Proiect_PIU.csprojAssemblyReference.cache
+D:\Ioana\Proiect_PIU\obj\Debug\Proiect_PIU.Form1.resources
+D:\Ioana\Proiect_PIU\obj\Debug\Proiect_PIU.csproj.GenerateResource.cache
